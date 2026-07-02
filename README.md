@@ -128,7 +128,7 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
   <img width="12" />
-  <img src="https://shields.io" alt="FIX Protocol" height="40"/> </a> </p>
+  
 </div>
 
 # 📊 GitHub Stats:
