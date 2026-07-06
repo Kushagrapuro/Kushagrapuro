@@ -128,9 +128,7 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
   <img width="12" />
-    <a href="https://fixprotocol.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/FIX_Protocol-4.4-blue" alt="FIX Protocol" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/FIX_Protocol-4.4-blue" alt="FIX Protocol" height="40"/>
 </div>
 
 # 📊 GitHub Stats:
